@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/druloloy.github.io/BeatPad/static/css/main.491c2d58.chunk.css",
-    "main.js": "/druloloy.github.io/BeatPad/static/js/main.fbe9818a.chunk.js",
-    "main.js.map": "/druloloy.github.io/BeatPad/static/js/main.fbe9818a.chunk.js.map",
-    "runtime-main.js": "/druloloy.github.io/BeatPad/static/js/runtime-main.f6f4af05.js",
-    "runtime-main.js.map": "/druloloy.github.io/BeatPad/static/js/runtime-main.f6f4af05.js.map",
-    "static/js/2.63c776ce.chunk.js": "/druloloy.github.io/BeatPad/static/js/2.63c776ce.chunk.js",
-    "static/js/2.63c776ce.chunk.js.map": "/druloloy.github.io/BeatPad/static/js/2.63c776ce.chunk.js.map",
-    "index.html": "/druloloy.github.io/BeatPad/index.html",
-    "static/css/main.491c2d58.chunk.css.map": "/druloloy.github.io/BeatPad/static/css/main.491c2d58.chunk.css.map",
-    "static/js/2.63c776ce.chunk.js.LICENSE.txt": "/druloloy.github.io/BeatPad/static/js/2.63c776ce.chunk.js.LICENSE.txt"
+    "main.css": "/BeatPad/static/css/main.491c2d58.chunk.css",
+    "main.js": "/BeatPad/static/js/main.fbe9818a.chunk.js",
+    "main.js.map": "/BeatPad/static/js/main.fbe9818a.chunk.js.map",
+    "runtime-main.js": "/BeatPad/static/js/runtime-main.1d1ba3ee.js",
+    "runtime-main.js.map": "/BeatPad/static/js/runtime-main.1d1ba3ee.js.map",
+    "static/js/2.63c776ce.chunk.js": "/BeatPad/static/js/2.63c776ce.chunk.js",
+    "static/js/2.63c776ce.chunk.js.map": "/BeatPad/static/js/2.63c776ce.chunk.js.map",
+    "index.html": "/BeatPad/index.html",
+    "static/css/main.491c2d58.chunk.css.map": "/BeatPad/static/css/main.491c2d58.chunk.css.map",
+    "static/js/2.63c776ce.chunk.js.LICENSE.txt": "/BeatPad/static/js/2.63c776ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f6f4af05.js",
+    "static/js/runtime-main.1d1ba3ee.js",
     "static/js/2.63c776ce.chunk.js",
     "static/css/main.491c2d58.chunk.css",
     "static/js/main.fbe9818a.chunk.js"
