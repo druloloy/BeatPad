@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/BeatPad/static/css/main.491c2d58.chunk.css",
-    "main.js": "/BeatPad/static/js/main.fbe9818a.chunk.js",
-    "main.js.map": "/BeatPad/static/js/main.fbe9818a.chunk.js.map",
+    "main.js": "/BeatPad/static/js/main.64c5fa4d.chunk.js",
+    "main.js.map": "/BeatPad/static/js/main.64c5fa4d.chunk.js.map",
     "runtime-main.js": "/BeatPad/static/js/runtime-main.1d1ba3ee.js",
     "runtime-main.js.map": "/BeatPad/static/js/runtime-main.1d1ba3ee.js.map",
-    "static/js/2.63c776ce.chunk.js": "/BeatPad/static/js/2.63c776ce.chunk.js",
-    "static/js/2.63c776ce.chunk.js.map": "/BeatPad/static/js/2.63c776ce.chunk.js.map",
+    "static/js/2.acb0dd6b.chunk.js": "/BeatPad/static/js/2.acb0dd6b.chunk.js",
+    "static/js/2.acb0dd6b.chunk.js.map": "/BeatPad/static/js/2.acb0dd6b.chunk.js.map",
     "index.html": "/BeatPad/index.html",
     "static/css/main.491c2d58.chunk.css.map": "/BeatPad/static/css/main.491c2d58.chunk.css.map",
-    "static/js/2.63c776ce.chunk.js.LICENSE.txt": "/BeatPad/static/js/2.63c776ce.chunk.js.LICENSE.txt"
+    "static/js/2.acb0dd6b.chunk.js.LICENSE.txt": "/BeatPad/static/js/2.acb0dd6b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1d1ba3ee.js",
-    "static/js/2.63c776ce.chunk.js",
+    "static/js/2.acb0dd6b.chunk.js",
     "static/css/main.491c2d58.chunk.css",
-    "static/js/main.fbe9818a.chunk.js"
+    "static/js/main.64c5fa4d.chunk.js"
   ]
 }
